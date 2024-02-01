@@ -1,3 +1,6 @@
+
+Address deployed to : smart contract address:0x9833A82B7a44f1C5649A34ec2487b9E1917E7d0e
+Testnet and Block explorere is Lightlink: pegasus
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
